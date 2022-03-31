@@ -1,8 +1,8 @@
 Some Important Java Projects are here : :
 
-Problem Statement for Array_Assignment :
+1) Problem Statement for Array_Assignment :
 
-1)  There is a class Adder which has two data members of type 1D int array and int variable. It
+    There is a class Adder which has two data members of type 1D int array and int variable. It
     has two functions: getdata and numsum. Function getdata accepts non-empty array of distinct
     integers from user in 1D int array data member and a targetsum in another data member.
     The function numsum adds any two elements from an input array which is equal to targetsum
